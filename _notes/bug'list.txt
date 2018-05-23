@@ -1,0 +1,9 @@
+* Validar edit-congregação
+* Validar edit-obreiro
+* Atualizar select option edit-obreiro
+* variedades de relatórios
+* nível de usuário
+* sistema de cadastro de usuário
+* organizar pastas e arquivo(renomea-los)
+* usar padrão correto nas variáveis
+* verificar funções inuteis
